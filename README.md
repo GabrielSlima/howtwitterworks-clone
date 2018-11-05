@@ -9,4 +9,4 @@ has a clean and very simple design and layout, perfect to practice Web developme
 Very simple, draw it in peace of paper! 
 ![PROTOTYPE](https://github.com/HiroTatsuo/howtwitterworks-clone/blob/master/prototipo.jpeg)
 
-This was the result: 
+This was the result: https://hirotatsuo.github.io/howtwitterworks-clone/index.html
