@@ -10,3 +10,7 @@ Very simple, draw it in peace of paper!
 ![PROTOTYPE](https://github.com/HiroTatsuo/howtwitterworks-clone/blob/master/prototipo.jpeg)
 
 This was the result: https://hirotatsuo.github.io/howtwitterworks-clone/index.html
+
+## LICENSE
+
+All files within this repo are released under the MIT (OSI) License - https://en.wikipedia.org/wiki/MIT_License
