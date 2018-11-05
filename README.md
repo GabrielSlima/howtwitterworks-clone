@@ -7,6 +7,6 @@ has a clean and very simple design and layout, perfect to practice Web developme
 ## HOW DO I THINK TO DO THIS ?
 
 Very simple, draw it in peace of paper! 
-![PROTOTYPE](https://github.com/HiroTatsuo/howtwitterworks-clone/blob/master/mon/prototipo.jpeg)
+![PROTOTYPE](https://github.com/HiroTatsuo/howtwitterworks-clone/blob/master/prototipo.jpeg)
 
 This was the result: 
